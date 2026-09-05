@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "lexx_dex",
   "VITE_ORDERLY_BROKER_NAME": "LexxDEX",
   "VITE_BROKER_EOA_ADDRESS": "0x63c8fc8ca23534b1ca6d5bce6efc88dc7aad76cf",
   "VITE_DISABLE_MAINNET": "false",
